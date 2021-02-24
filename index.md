@@ -12,5 +12,7 @@
 # Cluster Analysis
 * This Web pages provide various links and information on my Cluster Analysis course.
 * They have been written using the gh-pages branch of Github. 
-* To access to the Github Repository click on the blue link above. 
-* The last version of my course is available on  [Rpubs Rayane](https://rpubs.com/rayane-ilo/730120).
+* To access to the Github Repository click on the blue link above.
+
+* The last version of my code is available on  [Rpubs Rayane](https://rpubs.com/rayane-ilo/730120).
+* The last version of my code is available on  [Rpubs Thomas](https://rpubs.com/)
