@@ -1,7 +1,7 @@
 <img src="20171019_135310.jpeg" width="50">
 <a href="mailto:rayane.eljounaid@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src=".jpeg" width="50">
+<img src="photo.jpg" width="50">
 <a href="mailto:thomas.pedinotti@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_cnam.gif" width="50">
