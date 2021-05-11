@@ -14,5 +14,6 @@
 * They have been written using the gh-pages branch of Github. 
 * To access to the Github Repository click on the blue link above.
 
-* The last version of my code is available on  [Rpubs Rayane](https://rpubs.com/rayane-ilo/fouille_de_donnees_1).
-* The last version of my code is available on  [Rpubs Thomas](https://rpubs.com/thomas75019/732459)
+our code
+* The last version of our code is available on  [Rpubs](https://rpubs.com/rayane-ilo/fouille_de_donnees_1) and [Dataviz](https://rpubs.com/rayane-ilo/751597).
+
